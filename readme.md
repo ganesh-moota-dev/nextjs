@@ -7,3 +7,4 @@ Next.js simplifies the process of building web applications with features like r
 ### Table of Content:
 1. [Out of the box features provided by NextJs](./getting-started/nextjs-features.md)
 2. [Types of Components in NextJs](./concepts/types-of-components-in-nextjs.md)
+3. [Routing]()
